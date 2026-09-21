@@ -1,6 +1,6 @@
 # Hi, I'm Md Esfer Abdus Sami
 
-Computer Science and Engineering student at North South University, Dhaka, Bangladesh, and an independent AI researcher working at the intersection of quantum computing, cryptography, and language models.
+Computer Science and Engineering graduate from North South University, Dhaka, Bangladesh, and an independent AI researcher working at the intersection of quantum computing, cryptography, and language models.
 
 ## Research interests
 
