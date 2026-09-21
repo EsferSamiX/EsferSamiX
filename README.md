@@ -1,8 +1,8 @@
 # Hi, I'm Md Esfer Abdus Sami
 
-Computer Science and Engineering graduate (AI Major) from North South University, Dhaka, Bangladesh, and an independent AI researcher working at the intersection of quantum computing, cryptography, and language models.
+Computer Science and Engineering graduate (AI Major) from North South University, Dhaka, Bangladesh, and an LLM Research Intern at Elite Research Lab, working at the intersection of quantum computing, cryptography, and language models.
 
-Currently a Software Engineering Intern (AI/ML) at CloudlyAI, building healthcare diagnostic AI agents and reinforcement learning pipelines for 5G optimization, and an LLM Research Intern at Elite Research Lab.
+Currently also a Software Engineering Intern (AI/ML) at CloudlyAI, building healthcare diagnostic AI agents and reinforcement learning pipelines for 5G optimization.
 
 ## Research interests
 
