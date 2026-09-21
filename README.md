@@ -1,6 +1,6 @@
 # Hi, I'm Md Esfer Abdus Sami
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=CSE+graduate+from+North+South+University;LLM+Research+Intern+at+Elite+Research+Lab;Quantum+Machine+Learning;Post-Quantum+Cryptography;NLP+with+Large+Language+Models)](https://git.io/typing-svg)
+<img src="terminal.svg" alt="terminal" width="560" />
 
 Computer Science and Engineering graduate (AI Major) from North South University, Dhaka, Bangladesh, and an LLM Research Intern at Elite Research Lab, working at the intersection of quantum computing, cryptography, and language models.
 

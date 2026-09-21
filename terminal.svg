@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" font-family="'Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14">
+  <style>
+    .out { opacity: 0; animation: show 0.01s linear forwards; }
+    .t1 { animation: w1 0.64s steps(8, end) 0.5s forwards; }
+    .t3 { animation: w3 1.12s steps(14, end) 2.0s forwards; }
+    .t5 { animation: w5 1.12s steps(14, end) 4.0s forwards; }
+    .o2 { animation-delay: 1.4s; }
+    .o4 { animation-delay: 3.4s; }
+    .o6 { animation-delay: 5.4s; }
+    .o7 { animation-delay: 6.0s; }
+    .cursor { opacity: 0; animation: show 0.01s linear 6.0s forwards, blink 1s steps(2, start) 6.0s infinite; }
+    @keyframes w1 { to { width: 72px; } }
+    @keyframes w3 { to { width: 126px; } }
+    @keyframes w5 { to { width: 126px; } }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <clipPath id="c1"><rect class="t1" x="20" y="48" width="0" height="20"/></clipPath>
+    <clipPath id="c3"><rect class="t3" x="20" y="92" width="0" height="20"/></clipPath>
+    <clipPath id="c5"><rect class="t5" x="20" y="136" width="0" height="20"/></clipPath>
+  </defs>
+  <rect width="560" height="230" rx="10" fill="#1e1e2e"/>
+  <rect width="560" height="32" rx="10" fill="#2b2b3b"/>
+  <rect y="22" width="560" height="10" fill="#2b2b3b"/>
+  <circle cx="18" cy="16" r="6" fill="#ff5f56"/>
+  <circle cx="38" cy="16" r="6" fill="#ffbd2e"/>
+  <circle cx="58" cy="16" r="6" fill="#27c93f"/>
+  <text x="280" y="20" text-anchor="middle" fill="#8a8a9a" font-size="12">esfer@nsu: ~</text>
+  <g fill="#cdd6f4">
+    <text x="20" y="62" clip-path="url(#c1)"><tspan fill="#89b4fa">$</tspan> whoami</text>
+    <text x="20" y="84" class="out o2" fill="#a6e3a1">Md Esfer Abdus Sami</text>
+    <text x="20" y="106" clip-path="url(#c3)"><tspan fill="#89b4fa">$</tspan> cat role.txt</text>
+    <text x="20" y="128" class="out o4" fill="#a6e3a1">LLM Research Intern @ Elite Research Lab</text>
+    <text x="20" y="150" clip-path="url(#c5)"><tspan fill="#89b4fa">$</tspan> ls research/</text>
+    <text x="20" y="172" class="out o6" fill="#f9e2af">qml/  post-quantum-crypto/  llm-nlp/</text>
+    <text x="20" y="194" class="out o7"><tspan fill="#89b4fa">$</tspan></text>
+    <rect class="cursor" x="38" y="182" width="8" height="15" fill="#cdd6f4"/>
+  </g>
+</svg>
