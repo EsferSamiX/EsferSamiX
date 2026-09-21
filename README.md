@@ -15,13 +15,6 @@ Currently also a Software Engineering Intern (AI/ML) at CloudlyAI, building heal
 - **Bridging Chaos and Lattice Cryptography: Lorenz-Conditioned Key Injection for CRYSTALS-Kyber** - a post-quantum hybrid framework combining CRYSTALS-Kyber with HKDF-based key separation and Lorenz chaotic conditioning. Submitted to AVS Quantum Science (under review).
 - **Quantum Query Attention: A Hybrid Quantum-Classical Architecture for Renewable Energy Forecasting** - TCN-LSTM-QQA-RPP, an IQP-based quantum attention mechanism with a Ring VQC post-processor. Submitted to Discover Quantum Science, Springer Nature (under review).
 
-## Selected projects
-
-- [DataFun](https://github.com/EsferSamiX/DataFun) - AI-powered no-code machine learning platform (Next.js, FastAPI, LangGraph, PostgreSQL)
-- [BanglaHealthNER](https://huggingface.co/EsferSami/BanglaHealthNER-Model) - supervised vs prompt-based medical NER for Bangla, with a public [dataset](https://huggingface.co/datasets/EsferSami/Bangla_HealthNER)
-- [AI Learning Assistant v2.0](https://github.com/EsferSamiX/AI-Learning-Assistant-v2.0) - PDF-aware RAG educational platform with AI safety guardrails (LLaMA 3.3 70B, LangGraph, pgvector)
-- [FunShop](https://github.com/EsferSamiX/FunShop) - full-stack e-commerce demo (Next.js, FastAPI, PostgreSQL, Docker Compose)
-
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
