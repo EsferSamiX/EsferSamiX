@@ -2,7 +2,7 @@
 
 <img src="terminal.svg" alt="terminal" width="560" />
 
-Computer Science and Engineering graduate (AI Major) from North South University, Dhaka, Bangladesh, and an LLM Research Intern at Elite Research Lab, working at the intersection of quantum computing, cryptography, and language models.
+Computer Science and Engineering graduate (AI Major) from North South University, Dhaka, Bangladesh, and a Multimodal AI Researcher at Elite Research Lab, working at the intersection of quantum computing, cryptography, and language models.
 
 Currently also a Software Engineering Intern (AI/ML) at CloudlyAI, building healthcare diagnostic AI agents and reinforcement learning pipelines for 5G optimization.
 
