@@ -8,15 +8,6 @@ Computer Science and Engineering student at North South University, Dhaka, Bangl
 - **Post-Quantum Cryptography (PQC):** lattice-based schemes and their practical deployment
 - **NLP with Large Language Models:** retrieval-augmented generation, LLM evaluation, and AI safety
 
-## 🚀 Recent work
-
-**AI Learning Assistant v2.0** - a PDF-aware RAG chatbot with page-cited retrieval, plus an essay writer, summarizer, question generator, and answer evaluator, all wrapped in AI safety guardrails.
-
-- LLaMA 3.3 70B via Groq, orchestrated with LangGraph
-- FastAPI backend with JWT auth and Redis, PostgreSQL with pgvector for retrieval
-- MCP server for tool integration
-- Next.js 15 frontend
-
 ## 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
