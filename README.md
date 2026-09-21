@@ -19,15 +19,6 @@ Computer Science and Engineering student at North South University, Dhaka, Bangl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
-## GitHub stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=EsferSamiX&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsferSamiX&layout=compact&theme=dark&hide_border=true" alt="Top languages" /></td>
-  </tr>
-</table>
-
 ## Find me
 
 - Website: [esfersami.com](https://www.esfersami.com)
