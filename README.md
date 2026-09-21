@@ -43,3 +43,4 @@ Computer Science and Engineering student at North South University, Dhaka, Bangl
 - ORCID: [0009-0008-1205-2752](https://orcid.org/0009-0008-1205-2752)
 - arXiv: [author page](https://arxiv.org/a/0009-0008-1205-2752)
 - ResearchGate: [Md Esfer Abdus Sami](https://www.researchgate.net/profile/Md-Esfer-Abdus-Sami)
+- Kaggle: [esfersami50](https://www.kaggle.com/esfersami50)
